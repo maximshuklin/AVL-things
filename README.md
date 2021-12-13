@@ -6,3 +6,5 @@ This repository contains a simple Qt Widget Application with ability to display 
 
 
 This is a simple school project (homework) which was made by me in one day.
+
+<!-- <img src="images/Homework.png" alt="homework" width="350"/> -->

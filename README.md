@@ -14,4 +14,4 @@ This is a simple school project (homework) which was made by me in one day.
 
 <img src="images/AVL-1.png" alt="pic_1" width="800"/>
 
-<img src="images/AVL-2.png" alt="pic_1" width="800"/>
+<img src="images/AVL-2.png" alt="pic_2" width="800"/>

@@ -1,9 +1,10 @@
 # AVL-simple-animation
 
-This repository contains a simple Qt Widget Application with ability to display AVL-tree. Supports 2 type of operation:
-* Add a vertex (integer number)
-* Delete a vertex
+This repository contains a Qt Widget Application with ability to display AVL-tree. It supports 2 types of operations:
+* Add a vertex to tree (integer number)
+* Delete a vertex from tree (integer number)
 
+The implementation of AVL-tree is effective and works using $O(n \log{n})$ time complexity.
 
 This is a simple school project (homework) which was made by me in one day.
 

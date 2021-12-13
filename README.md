@@ -12,6 +12,6 @@ This is a simple school project (homework) which was made by me in one day.
 
 # How does it look?
 
-<!-- <img src="images/AVL-1.png" alt="pic_1" width="350"/> -->
+<img src="images/AVL-1.png" alt="pic_1" width="350"/>
 
-<!-- <img src="images/AVL-2.png" alt="pic_1" width="350"/> -->
+<img src="images/AVL-2.png" alt="pic_1" width="350"/>
